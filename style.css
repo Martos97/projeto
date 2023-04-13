@@ -19,3 +19,12 @@
     font-size: 30px;
     padding: 0 0 0 30px;
 }
+.escola {
+    background-color: rgb(132, 226, 195);
+    color: black;
+    font-size: 21px;
+    padding: 300px 250px;
+}
+.escola-titulo {
+    padding: 24px 0;
+}
