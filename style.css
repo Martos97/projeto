@@ -28,3 +28,17 @@
 .escola-titulo {
     padding: 24px 0;
 }
+body{
+    font-family: sans-serif;
+}
+.estudante-div{
+    text-align: center;
+    padding: 24px 0;
+    background-color: rgb(209, 209, 179);
+}
+.estudante-titulo{
+    padding: 30px;
+}
+.estudante-imagem{
+    width: 120px;    
+}
