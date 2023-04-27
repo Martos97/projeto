@@ -30,15 +30,28 @@
 }
 body{
     font-family: sans-serif;
+    background-color: rgb(209, 209, 179);
 }
 .estudante-div{
     text-align: center;
     padding: 24px 0;
-    background-color: rgb(209, 209, 179);
 }
 .estudante-titulo{
     padding: 30px;
+    text-align: center;
 }
 .estudante-imagem{
     width: 120px;    
+}
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+footer {
+    background-color: black;
+    padding: 15px 0;
+    text-align: center;
+}
+.rodape-imagem {
+    width: 80px;
 }
